@@ -1,1 +1,2 @@
-# Tendinha_boutique_java_hibernate
+# boutiquetendinha
+Sistema de Venda de Roupas-Java Hibernate
